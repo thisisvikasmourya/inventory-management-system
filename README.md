@@ -1,2 +1,5 @@
 # inventory-management-system
-this is inventory management system in python using tkinter and database management system using phpmyadmin
+
+vikas mourya
+https://www.instagram.com/thisisvikasmourya/
+this project that is inventory management system is develop in python language
